@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 🔭 I’m currently working on a Pokemon Companion app which allows users to quickly find pokemon and general information  required all in one place, to allow for quick responses as opposed to various google searches!
 
-🌱 I’m currently learning Concurrency with Javascript and HTTP and API usaage!
+🌱 I’m currently learning HTTP and API usage!
 
 📫 How to reach me: I can be reached at ajaypalsallh@gmail.com
 
