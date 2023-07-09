@@ -5,11 +5,15 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on a Pokemon Companion app which allows users to quickly find pokemon and general information  required all in one place, to allow for quick responses as opposed to various google searches!
+🔭 I’m currently working on a Pokemon Companion app which allows users to quickly find pokemon and general information  required all in one place, to allow for quick responses as opposed to various google searches! -> Now complete check it out at https://asallh.github.io/The-Pokemon-Companion/
+
+
 
 🌱 I’m currently learning HTTP and API usage!
 
-📫 How to reach me: I can be reached at ajaypalsallh@gmail.com
+👀 Looking for roles in either Full-stack or back-end development inntnernship oppertunites
+
+📫 How to reach me: Reach out at ajaypalsallh@gmail.com
 
 😄 Pronouns: He/Him
 
