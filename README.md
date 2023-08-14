@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajaypalsallh@gmail.com**
 
-- 📄 Know about my experiences [https://asallh.github.io/Resources/Ajaypal%20Sallh%20Resume.pdf](https://asallh.github.io/Resources/Ajaypal%20Sallh%20Resume.pdf)
+- 📄 Know about my experiences [Resume here!](https://asallh.github.io/Resources/Ajaypal%20Sallh%20Resume.pdf)
 
 - ⚡ Fun fact **I used to be a Sponsored Parkour Athlete**
 
