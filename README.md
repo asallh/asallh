@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aj Sallh</h1>
-<h3 align="center">An aspiring SWE ready to Hack the internship game!</h3>
+<h3 align="center">An aspiring Software Engineer ready to Hack the internship game!</h3>
 
 - 🔭 I’m currently working on [The Pokemon Companionn](https://asallh.github.io/The-Pokemon-Companion/)
 
