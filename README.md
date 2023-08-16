@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://asallh.github.io/](https://asallh.github.io/)
 
-- 📫 How to reach me **ajaypalsallh@gmail.com**
+- 📫 How to reach me **ajaypalsallh.business@gmail.com**
 
 - 📄 Know about my experiences [here!](https://asallh.github.io/Resources/Ajaypal%20Sallh%20Resume.pdf)
 
