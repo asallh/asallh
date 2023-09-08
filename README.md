@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aj Sallh</h1>
 <h3 align="center">An aspiring Software Engineer ready to Hack the internship game!</h3>
 
-- 🔭 I’m currently working on [F1InsghtsHub]
+- 🔭 I’m currently working on [The Pokemon Companion](https://asallh.github.io/The-Pokemon-Companion/)
 
 - 🌱 I’m currently learning **HTTP, API, Data Structures and Algorithims**
 
