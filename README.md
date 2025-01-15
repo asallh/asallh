@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTTP, API, Data Structures and Algorithims**
 
-- 👨‍💻 All of my projects are available at [https://asallh.github.io/](https://asallh.github.io/)
+- 👨‍💻 All of my projects are available at [https://www.ajsallh.com](https://www.ajsallh.com/)
 
 - 📫 How to reach me **ajaypalsallh.business@gmail.com**
 
