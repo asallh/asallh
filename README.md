@@ -17,10 +17,11 @@
 
 Developer at **Strathcona Resources** building full-stack applications, optimization tools, and data platforms that serve 200+ field-operations users. CS student at the **University of Calgary** (graduating 2027) with production experience across **React, FastAPI, Next.js, Azure AKS, and Databricks/Spark**.
 
-- Built a platform that retired vendor software and saved **$350K+/year**
 - Led the **Helios** solar car dashboard team (QML/C++, MQTT)
 - Won **1st place** at ZooTech Cursor Calgary Hackathon
-- Currently building [PitWall](https://github.com/asallh/PitWall) — a C++17 F1 telemetry dashboard on Raspberry Pi 5
+- Currently building:
+  -  [PitWall](https://github.com/asallh/PitWall) — a C++17 F1 telemetry dashboard on Raspberry Pi 5
+  -  [betterDb](https://github.com/asallh/betterDb) - an SQL GUI catered for developers to avoid the heavy DB Admin tools
 
 ---
 
