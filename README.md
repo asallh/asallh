@@ -118,11 +118,3 @@ Turborepo monorepo shipping web + mobile for a real construction client, with S3
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=asallh&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" width="49%" alt="Top Languages"/>
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=asallh&style=flat-square&color=3b82f6)
-
-</div>
